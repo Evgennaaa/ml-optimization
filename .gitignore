@@ -1,2 +1,5 @@
 .DS_Store
+<<<<<<< HEAD
 .ipynb_checkpoints/
+=======
+>>>>>>> 2b76075 (Add .DS_Store to .gitignore)
